@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Stephany 👋
 
-<!--
-**stephany-c/stephany-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Front-end
 
-Here are some ideas to get you started:
+📚 Atualmente estudando:
+- Java
+- Spring Boot
+- Angular
+- Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projetos em destaque:
+- Landing Pages Responsivas
+- Sistemas Web
+- Portfólio Pessoal
+
+📫 Contato:
+- LinkedIn: seu-linkedin
+- E-mail: seu-email
