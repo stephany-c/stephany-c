@@ -17,7 +17,7 @@
 ## 💻 Tecnologias
 
 ### Front-end
-HTML • CSS • JavaScript • React • Vue.js • Angular • Bootstrap • Tailwind CSS
+HTML • CSS • JavaScript • Angular • React • Next.js  • Bootstrap • Tailwind CSS
 
 ### Back-end
 Java • Spring Boot • Node.js • APIs REST
