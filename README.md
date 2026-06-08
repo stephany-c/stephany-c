@@ -1,10 +1,6 @@
 <h1 align="center">Olá, eu sou a Stephany 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedora Full Stack Júnior</strong>
-</p>
-
-<p align="center">
   🚀 +3 anos de experiência em desenvolvimento web <br>
   🎓 Bacharela em Sistemas de Informação pela PUC Minas
 </p>
@@ -47,4 +43,4 @@ Git • Docker • Swagger
   </a>
 </p>
 
-💡 Apaixonada por criar experiências digitais intuitivas, acessíveis e com foco na melhor experiência para o usuário.
+🚀 Apaixonada por tecnologia e aprendizado contínuo, estou sempre em busca de novos desafios para evoluir como desenvolvedora e expandir meus conhecimentos.
