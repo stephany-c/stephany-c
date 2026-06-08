@@ -15,9 +15,9 @@ Git • Docker • Swagger
 
 ## 🎯 Atualmente
 
-🔹 Desenvolvedora Front-end na Uaify  
-🔹 Aprimorando conhecimentos em Java, Spring Boot e Angular  
-🔹 Construindo projetos para evoluir como Desenvolvedora Full Stack
+🔹 Trabalhando como desenvolvedora Front-end. 
+🔹 Aprimorando conhecimentos em Java, Spring Boot e Angular.  
+🔹 Construindo projetos pessoais para evoluir como Desenvolvedora Full Stack.
 
 ## 📫 Onde me encontrar
 
