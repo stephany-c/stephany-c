@@ -1,9 +1,25 @@
-# Olá, eu sou Stephany 👋
+<h1 align="center">Olá, eu sou a Stephany👋</h1>
 
-💻 Desenvolvedora Front-end
+<p align="center">
+  🚀 +3 anos de experiência em desenvolvimento web <br>
+  🎓 Bacharela em Sistemas de Informação - PUC Minas
+</p>
 
-📚 Atualmente estudando:
-- Java
-- Spring Boot
-- Angular
-- Next.js
+## 💻 Stack
+
+HTML • CSS • JavaScript • React • Vue • Angular
+
+Java • Spring Boot • Node.js • APIs REST
+
+Git • Docker • Swagger
+
+## 🎯 Atualmente
+
+🔹 Desenvolvedora Front-end na Uaify  
+🔹 Aprimorando conhecimentos em Java, Spring Boot e Angular  
+🔹 Construindo projetos para evoluir como Desenvolvedora Full Stack
+
+## 📫 Onde me encontrar
+
+- LinkedIn: www.linkedin.com/in/stephany-carolina-de-souza-1056b81a6
+- GitHub: github.com/stephany-c
