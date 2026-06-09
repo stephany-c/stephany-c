@@ -13,9 +13,9 @@
 </p>
 
 ---
-## 🌐 Portfólio
+<!--## 🌐 Portfólio
 
-🚀 Confira alguns dos meus projetos e experiências: 👉 **https://portifolio-stephany-carolina.vercel.app/**
+🚀 Confira alguns dos meus projetos e experiências: 👉 **https://portifolio-stephany-carolina.vercel.app/**-->
 
 ## 💻 Tecnologias
 
