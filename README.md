@@ -32,7 +32,7 @@ Git • Docker • Swagger
 
 ## 🎯 Atualmente
 
-- 💼 Atuando como Desenvolvedora Front-end
+- 💼 Atuando no mercado de trabalho como Desenvolvedora Front-end
 - 📚 Aprofundando conhecimentos em Java, Spring Boot e Angular
 - 🚀 Desenvolvendo projetos pessoais para evoluir como Desenvolvedora Full Stack
 
