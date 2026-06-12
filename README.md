@@ -23,7 +23,7 @@
 HTML • CSS • JavaScript • Angular • React • Next.js  • Bootstrap • Tailwind CSS
 
 ### Back-end
-Java • Spring Boot • Node.js • APIs REST
+Java • Spring Boot • APIs REST
 
 ### Ferramentas
 Git • Docker • Swagger
